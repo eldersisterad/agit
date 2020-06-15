@@ -1,0 +1,13 @@
+学习日志
+1813050 张春鹏
+已掌握知识：Git简介、安装Git、创建版本库、版本回退、工作区与暂存区、管理修改、撤销修改、删除文件、远程仓库、分支管理、标签管理、使用GitHub、忽略特殊文件、配置别名等。
+
+
+目前存在的问题：在将本地库的所有内容推送到远程库的过程中，出现 
+$ git push -u origin master
+ERROR: Repository not found.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+网上的解决方案例如更新SSH密钥等方法均无法成功。
